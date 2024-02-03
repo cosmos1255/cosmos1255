@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David (@cosmos1255)
-- 👀 I am currently a Software Engineering professional. Mostly just here for the fun of it!
+- 👀 I am currently a Software Developer. Mostly just here for the fun of it!
 - 🌱 Always trying to grow in knowledge and skills. 
 
 <!---
